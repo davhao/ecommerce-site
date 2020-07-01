@@ -1,7 +1,12 @@
 [
-	{
-		"email": "davidjhao2000@gmail.com",
-		"password": "73adbcf7b77d35d7947c6bc7ff37a6f113e6ea42b0c56163d68705d4f3067291fd1a8dde8ccf30de78e0d110338e949c77d274118d545731f0d32a3bb5f2afca.9278c86e0222321e",
-		"id": "862bb91f"
-	}
+  {
+    "email": "davidjhao2000@gmail.com",
+    "password": "73adbcf7b77d35d7947c6bc7ff37a6f113e6ea42b0c56163d68705d4f3067291fd1a8dde8ccf30de78e0d110338e949c77d274118d545731f0d32a3bb5f2afca.9278c86e0222321e",
+    "id": "862bb91f"
+  },
+  {
+    "email": "djhao@ncsu.edu",
+    "password": "9f43759b14bea6d5f86c34e5155cff18e93522555d0e7f2dec0725796046e5b52f6daa212a4b2cf7fbb067a55d5978dfc695b06cfc1e1b96de9c1dec6a67bbb0.4fd955675bd3f62b",
+    "id": "f17a4b89"
+  }
 ]
